@@ -6,4 +6,10 @@
   background-color: white;
 }
 
+.xmas_stage {
+  position: relative;
+  height: 600px;
+  background-color: blueviolet;
+}
+
 /* _____________ */

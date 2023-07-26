@@ -1,13 +1,16 @@
 // IMPORT
 import './App.css'
 import Container from './components/Container';
+import XmasStage from './components/XmasStage';
 // ________________________
 
 // COMPONENTI
 function App() {
   return (
     <Container>
-      <h1>Xmas Counter</h1>
+      <XmasStage>
+        <h1>ciao</h1>
+      </XmasStage>
     </Container>
   );
 }
