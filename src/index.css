@@ -11,3 +11,7 @@ body {
   background-color: #3535EC;
   font-family: 'Dai Banna SIL', serif;
 }
+
+img {
+  width: 100%;
+}

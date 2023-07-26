@@ -2,6 +2,8 @@
 import './App.css'
 import Container from './components/Container';
 import XmasStage from './components/XmasStage';
+import Panel from './components/Panel';
+import XmasTree from './components/XmasTree';
 // ________________________
 
 // COMPONENTI
@@ -9,7 +11,8 @@ function App() {
   return (
     <Container>
       <XmasStage>
-        <h1>ciao</h1>
+        <Panel />
+        <XmasTree />
       </XmasStage>
     </Container>
   );
