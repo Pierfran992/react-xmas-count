@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Dai+Banna+SIL:ital,wght@1,300&display=swap');
+
+/* general rules */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #3535EC;
+  font-family: 'Dai Banna SIL', serif;
+}
